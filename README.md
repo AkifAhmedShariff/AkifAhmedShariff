@@ -1,59 +1,61 @@
-# Akif Ahmed Shariff
 
-**Computer Science Engineering Student | Software Developer | Problem Solver**
+<div align="center">
 
-I enjoy building practical applications using C, C++, Java, and Python, with a focus on efficient backend logic, intuitive user interfaces, and real-world problem-solving.
+# AKIF AHMED SHARIFF
 
-- **Currently working on:** InsightForge and practical software projects.
-- **Interested in:** Software development, data processing, and AI-powered applications.
-- **Currently learning:** Data structures, algorithms, GUI frameworks, and system optimization.
-- **Core focus:** Writing clean, maintainable code and improving application performance.
+### Computer Science Engineering Student · Software Developer
 
----
+Building practical software with clean code, thoughtful engineering, and a focus on real-world problems.
 
-## Connect With Me
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akif-ahmed-shariff/)
+<a href="https://github.com/AkifAhmedShariff">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/akif-ahmed-shariff/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AkifAhmedShariff)
-
-**LinkedIn:** [linkedin.com/in/akif-ahmed-shariff](https://www.linkedin.com/in/akif-ahmed-shariff/)
-
----
-
-## Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
 ---
+
+## About
+
+I'm a Computer Science Engineering student interested in software development, data processing, and building useful applications.
+
+- Developing projects with Python, C, C++, and Java.
+- Exploring data analysis and practical AI applications.
+- Improving problem-solving, algorithms, and software design skills.
+- Interested in collaborating on meaningful software projects.
 
 ## Featured Project
 
 ### InsightForge
 
-A data analysis application designed to make exploring datasets more accessible through natural-language questions and automated PDF reports.
+A data-analysis project focused on making dataset exploration more accessible through natural-language questions.
 
-**Highlights**
-- Ask questions about datasets using natural language.
-- Explore data summaries and analytical results.
-- Generate PDF reports for sharing findings.
+**Focus areas:** Python · Data Analysis · Question Validation
 
-[**View InsightForge Repository →**](https://github.com/AkifAhmedShariff/insightforge)
+[View Project →](https://github.com/AkifAhmedShariff/insightforge)
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Areas of Interest**
+
+`Software Development` · `Data Analysis` · `Problem Solving` · `AI Applications`
 
 ---
 
-## Current Goals
+## Connect
 
-- Strengthen data structures and algorithms.
-- Build reliable, maintainable software applications.
-- Explore AI-powered tools and data analytics.
-- Improve application performance and problem-solving skills.
-- Collaborate on meaningful software projects.
+I'm open to connecting with developers, learning from the community, and collaborating on interesting projects.
 
----
-
-*Always learning. Always building. Always improving.*
+[GitHub](https://github.com/AkifAhmedShariff) · [LinkedIn](https://www.linkedin.com/in/akif-ahmed-shariff/)
